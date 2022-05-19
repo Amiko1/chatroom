@@ -1,0 +1,31 @@
+
+.auth__icon::after {
+    content: "";
+    position: absolute;
+    width: 5.5rem;
+    height: 5.5rem;
+    box-shadow: rgba(231, 15, 15, 0.813) 0px 1px 4px;
+    border-radius: 50%; 
+    left: 50%;
+    top: 50%;
+    margin-top: -2.75rem;
+    margin-left: -2.75rem;
+    
+}
+
+
+.auth__icon::before {
+    content: "";
+    position: absolute;
+    width: 7.5rem;
+    height: 7.5rem;
+    box-shadow: rgba(231, 15, 15, 0.62) 0px 1px 4px;
+    border-radius: 50%; 
+    left: 50%;
+    top: 50%;
+    margin-top: -3.75rem;
+    margin-left: -3.75rem;
+
+    opacity: 0.7;
+}
+

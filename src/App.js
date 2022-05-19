@@ -1,4 +1,4 @@
-import Auth from './views/Auth'
+import Auth from './views/Auth/Auth'
 
 function App() {
   return (
